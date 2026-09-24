@@ -1,4 +1,10 @@
-# Quant Alpha Compositor
+# QuantLab Alpha Library (Legacy Component)
+
+> **Consolidated implementation:** start with [Systematic Alpha Lab](https://github.com/SRG-eddieliu/systematic-alpha-lab) and its [`alpha` package](https://github.com/SRG-eddieliu/systematic-alpha-lab/tree/main/src/systematic_alpha_lab/alpha).
+>
+> This repository is retained as an earlier standalone implementation. The notes below describe that version, including its original paths and assumptions. They are not evidence of a validated investment strategy. See the consolidated repository for current scope, evaluation limitations, and planned work.
+
+## Original Component Documentation
 
 A lightweight alpha-construction toolkit that consumes factor/composite outputs, purifies them against common risks, applies multiple weighting engines, and evaluates IC/IR/decay/turnover. Outputs per-method alpha series are saved under `outputs/`.
 
